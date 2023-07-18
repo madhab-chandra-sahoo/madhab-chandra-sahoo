@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Madhab Chandra Sahoo
-- 👀 Currently working as a Senior Full Stack Developer
-- 🌱 I've 6+ years of programming experience in PHP, CodeIgniter, Laravel, Angular 7+, Ionic Framework, MySql, HTML, CSS, Javascript, jQuery etc.
+- 👀 Currently working as a Developer II.
+- 🌱 I've 8+ years of programming experience in PHP, CodeIgniter, Laravel, Angular 7+, Ionic Framework, MySql, HTML, CSS, Javascript, jQuery etc.
 - 💞️ I'm interested in learning MongoDB, React JS etc.
 
 <!---
